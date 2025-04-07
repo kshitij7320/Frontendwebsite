@@ -437,3 +437,6 @@ footer p{
 .social-links li a:visited{
     font-size: 160%;
 }
+.section-footer{
+    padding-bottom: 0;
+}
