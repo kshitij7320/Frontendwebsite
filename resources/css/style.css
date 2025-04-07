@@ -440,3 +440,8 @@ footer p{
 .section-footer{
     padding-bottom: 0;
 }
+.icon-big{
+    align-items: center;
+    padding-left: 85px;
+    padding-right: 20px;
+}
